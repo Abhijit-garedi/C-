@@ -15,3 +15,4 @@ int main(){
 /* output
 4 2
 multiples%   */
+
